@@ -1,6 +1,6 @@
 ### Hi there i am Natnael Tewodros 👋
 
-🔭 I’m currently working on web development<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning   react , Node.js , MongoDB Express.js , Mern Stack<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on web development<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning   react , Node.js , MongoDB Express.js , Mern Stack<br>💬 you can get by natnaeltewodros03@gmail.com <br>⚡ Fun fact
 
 
 ## 🌐 Socials:
