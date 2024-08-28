@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Natnael Tewodros</h1>
 <h3 align="center">A passionate Full-Stack web developer from Addis Ababa, Ethiopia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=natnael-tewodros&label=Profile%20views&color=0e75b6&style=flat" alt="natnael-tewodros" /> </p>
-
-<p align="left"> <a href="https://twitter.com/natnael_tew_7" target="blank"><img src="https://img.shields.io/twitter/follow/natnael_tew_7?logo=twitter&style=for-the-badge" alt="natnael_tew_7" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://nati-portfolio-mu.vercel.app/](https://nati-portfolio-mu.vercel.app/)
 
 - 📫 How to reach me **natnaeltewodros03@gmail.com**
