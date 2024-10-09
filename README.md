@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Natnael Tewodros</h1>
 <h3 align="center">A passionate Full-Stack web developer from Addis Ababa, Ethiopia</h3>
 
-- 👨‍💻 All of my projects are available at [https://nati-portfolio-mu.vercel.app/](https://nati-portfolio-mu.vercel.app/)
+- 👨‍💻 All of my projects are available at <a href="https://nati-portfolio-mu.vercel.app/"/>Portfolio</a>
 
 - 📫 How to reach me **natnaeltewodros03@gmail.com**
 
