@@ -3,12 +3,170 @@
 
 ## 🚀 Portfolio
 
-👉 [Click here to visit my portfolio](https://natnael-portfolio-38.vercel.app/)
+👉 [my portfolio](https://natnael-portfolio-38.vercel.app/)
 
 
 - 📫 How to reach me **natnaeltewodros03@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3><h1 align="center">Hi 👋, I'm Natnael Tewodros</h1>
+<h3 align="center">Full-Stack Web Developer | MERN Stack Enthusiast | IT Graduate from Ethiopia</h3>
+
+<p align="center">
+Passionate about building modern, scalable, and user-friendly web applications.  
+Currently focused on mastering the MERN stack and developing impactful real-world projects.
+</p>
+
+---
+
+## 🚀 Portfolio
+
+🌐 <a href="https://natnael-portfolio-38.vercel.app/" target="_blank">Visit My Portfolio</a>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Information Technology Graduate
+- 💻 Passionate Full-Stack Web Developer
+- 🌱 Currently learning advanced MERN stack development
+- 🚀 Building real-world projects and improving problem-solving skills
+- 📍 Based in Addis Ababa, Ethiopia
+- 📫 Reach me at: **natnaeltewodros03@gmail.com**
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+<p align="left">
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/>
+  </a>
+  
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="45" height="45"/>
+  </a>
+  
+  <a href="https://getbootstrap.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="45" height="45"/>
+  </a>
+  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/>
+  </a>
+  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/>
+  </a>
+  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
+  </a>
+</p>
+
+### Backend & Database
+<p align="left">
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45"/>
+  </a>
+
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="45" height="45"/>
+  </a>
+
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="45" height="45"/>
+  </a>
+
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/>
+  </a>
+
+  <a href="https://www.php.net/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+  </a>
+</p>
+
+### Programming Languages & Tools
+<p align="left">
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
+  </a>
+
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/>
+  </a>
+
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>
+  </a>
+
+  <a href="https://www.cprogramming.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45"/>
+  </a>
+
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/>
+  </a>
+
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
+  </a>
+
+  <a href="https://flutter.dev/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="45" height="45"/>
+  </a>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/natnael-tewodros" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+</a>
+
+<a href="https://twitter.com/natnael_tew_7" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" />
+</a>
+
+<a href="https://instagram.com/natnael_tewodros_7" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
+</a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=natnael-tewodros&show_icons=true&theme=tokyonight" alt="github stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=natnael-tewodros&theme=tokyonight" alt="github streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=natnael-tewodros&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="top languages" />
+</p>
+
+---
+
+## ✨ Featured Projects
+
+- 🏦 Equb Management System  
+- ☕ Coffee Masters Checkout Project  
+- 🏥 Health Insurance Management System  
+- 👶 Daycare Management System  
+- 🛒 Auto ERP Hackathon Project  
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy transforming ideas into real-world web applications and continuously learning modern technologies.
 <p align="left">
 <a href="https://twitter.com/natnael_tew_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="natnael_tew_7" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/natnael-tewodros" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="natnael-tewodros" height="30" width="40" /></a>
