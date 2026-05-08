@@ -3,23 +3,6 @@
 
 ## 🚀 Portfolio
 
-👉 [my portfolio](https://natnael-portfolio-38.vercel.app/)
-
-
-- 📫 How to reach me **natnaeltewodros03@gmail.com**
-
-<h3 align="left">Connect with me:</h3><h1 align="center">Hi 👋, I'm Natnael Tewodros</h1>
-<h3 align="center">Full-Stack Web Developer | MERN Stack Enthusiast | IT Graduate from Ethiopia</h3>
-
-<p align="center">
-Passionate about building modern, scalable, and user-friendly web applications.  
-Currently focused on mastering the MERN stack and developing impactful real-world projects.
-</p>
-
----
-
-## 🚀 Portfolio
-
 🌐 <a href="https://natnael-portfolio-38.vercel.app/" target="_blank">Visit My Portfolio</a>
 
 ---
